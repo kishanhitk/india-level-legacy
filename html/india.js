@@ -125,8 +125,8 @@ const messages = {
       WestBengal: "West Bengal",
       AndamanandNicobarIslands: "Andaman and Nicobar Islands",
       Chandigarh: "Chandigarh",
-      DadraandNagarHaveliandDamanandDiu:
-        "Dadra and Nagar Haveli and Daman and Diu",
+      DadraandNagarHaveli: "Dadra and Nagar Haveli and Daman and Diu",
+      DamanAndDiu: "Daman and Diu",
       Delhi: "Delhi",
       JammuAndKashmir: "Jammu and Kashmir",
       Ladakh: "Ladakh",
